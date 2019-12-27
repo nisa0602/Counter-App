@@ -1,0 +1,29 @@
+
+.App {
+  text-align: center;
+  background-color: grey;
+  font-family: 'Oswald', sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: row;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+button {
+  margin: 10px;
+}
+
+.TeamOne {
+  
+}
